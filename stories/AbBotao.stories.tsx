@@ -3,7 +3,7 @@ import { AbBotao } from '../src/componentes/AbBotao';
 import { ComponentMeta, ComponentStory } from '@storybook/react';
 
 export default {
-    title: 'Componentes/AbBotao',
+    title: 'componentes/AbBotao',
     component: AbBotao
 } as ComponentMeta<typeof AbBotao>
 
